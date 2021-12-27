@@ -2,10 +2,10 @@ Coding states in last week
 
 <!--START_SECTION:waka-->
 ```text
-SQL          16 hrs 13 mins  ██████████▒░░░░░░░░░░░░░░   40.86 % 
-Java         13 hrs 20 mins  ████████▒░░░░░░░░░░░░░░░░   33.60 % 
-Properties   1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Pawn         1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-YAML         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Java         20 hrs 46 mins  ██████████▒░░░░░░░░░░░░░░   41.00 % 
+SQL          13 hrs 44 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.11 % 
+Properties   2 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JSON         1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Markdown     1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
