@@ -2,10 +2,10 @@ Coding states in last week
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   19 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   43.11 % 
-SCSS         5 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-JSON         2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-C            2 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-SQL          2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JavaScript   19 hrs 22 mins  █████████▓░░░░░░░░░░░░░░░   38.34 % 
+SCSS         5 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+C            5 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+ObjectiveC   3 hrs 53 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+JSON         2 hrs 53 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
 ```
 <!--END_SECTION:waka-->
