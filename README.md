@@ -2,6 +2,8 @@ Coding states in last week
 
 <!--START_SECTION:waka-->
 ```text
+Total: 28 hrs 5 mins
+
 JavaScript   14 hrs 3 mins   ████████████▓░░░░░░░░░░░░   50.07 % 
 Java         5 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
 C            5 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
