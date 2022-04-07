@@ -19,5 +19,3 @@ Markdown         20 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![](https://komarev.com/ghpvc/?username=insaniss)
