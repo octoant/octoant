@@ -10,8 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-tmux             16 hrs 50 mins  ████████████████████▓░░░░   82.77 %
-Other            1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+tmux             16 hrs 50 mins  ████████████████████▓░░░░   82.02 %
+Other            1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
 ```
 
 <!--END_SECTION:waka-->
