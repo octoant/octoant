@@ -32,5 +32,3 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: 'docs: update waka-stats'
-          SHOW_OS: True
-          SHOW_EDITORS: True
