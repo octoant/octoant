@@ -31,4 +31,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: Update readme waka-stats
+          COMMIT_MESSAGE: 'docs: update waka-stats'
+          SHOW_OS: True
+          SHOW_EDITORS: True
