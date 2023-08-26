@@ -10,8 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 21 mins    ████████████████████████▓   98.56 %
-XML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
