@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           14 hrs 39 mins  ██████████████░░░░░░░░░░░   56.34 %
+C                5 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+ObjectiveC       4 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+Java             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+XML              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
