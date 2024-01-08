@@ -10,7 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   34 mins         █████████████████████████   100.00 %
+Bash           1 hr 34 mins    ███████████████████████▓░   94.69 %
+Shell Script   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->
