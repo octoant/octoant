@@ -10,8 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash           1 hr 34 mins    ███████████████████████▓░   94.69 %
-Shell Script   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Bash           4 hrs 30 mins   █████████████████████▒░░░   85.55 %
+Shell Script   45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
