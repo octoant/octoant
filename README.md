@@ -10,10 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java     22 mins         ██████████████▒░░░░░░░░░░   56.71 %
-Kotlin   14 mins         ████████▓░░░░░░░░░░░░░░░░   35.24 %
-YAML     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-SQL      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
