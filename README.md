@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL        0 secs          ██████████████████░░░░░░░   71.49 %
+Kotlin     0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+textmate   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+YAMAKE     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
