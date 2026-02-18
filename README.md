@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL   0 secs          █████████████████████████   100.00 %
+SQL   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
