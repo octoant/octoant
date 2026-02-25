@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   3 mins                █████████████████████████   100.00 %
+Kotlin            35 mins               ███████████████▓░░░░░░░░░   63.14 %
+Properties        13 mins               ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+GitIgnore file    4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Markdown          2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+textmate          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
